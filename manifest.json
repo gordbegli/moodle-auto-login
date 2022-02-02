@@ -12,7 +12,7 @@
         "matches" : ["https://umass.moonami.com/"],
         "js" : ["content-script.js"],
         "run_at": "document_end",
-        "permissions": ["tabs", "https://umass.moonami.com/"],
+        "permissions": ["https://umass.moonami.com/"],
         "all_frames": false
     }]
   }
