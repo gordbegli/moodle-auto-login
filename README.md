@@ -1,4 +1,4 @@
-# moodle-auto-login
+# Moodle Auto Login
 
 A simple chrome extension that clicks the login button when you load Moonami.
 
@@ -10,5 +10,4 @@ A simple chrome extension that clicks the login button when you load Moonami.
 3. Enable 'Developer Mode' on the top right of the page.
 4. Click 'Load unpacked' at the top left of the page.
 5. Select the folder from step 2.
-
-Enjoy!
+6. Enjoy!
