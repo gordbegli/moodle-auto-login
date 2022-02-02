@@ -4,8 +4,11 @@ A simple chrome extension that clicks the login button when you load Moonami.
 
 # How to add extension to Chrome
 
+## Video Instructions
+_Click the image below for a video that shows the installation process._
 [![A youtube video with installation instructions](https://img.youtube.com/vi/TmPhPxo_RtY/0.jpg)](https://www.youtube.com/watch?v=TmPhPxo_RtY)
 
+## Text Instructions
 1. Download the repo as a zip file.
 2. Unzip the file into a folder.
 3. Go to the chrome extensions page.
