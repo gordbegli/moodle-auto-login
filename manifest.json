@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Moodle-Auto-Login",
+    "name": "Moodle Auto Login",
     "version": "1.0",
-    "description": "Automatically clicks login when you load moodle.",
+    "description": "Automatically clicks login when you load the moodle for UMass Amherst.",
     "icons": {
         "16" : "/images/icon-16.png",
         "48" : "/images/icon-48.png",
