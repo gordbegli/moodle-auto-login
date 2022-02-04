@@ -1,11 +1,11 @@
 # Moodle Auto Login
 
-A simple chrome extension that clicks the login button when you load Moonami.
+A simple Chrome extension that clicks the login button when you load Moonami.
 
 # How to add extension to Chrome
 
 ## Chrome Webstore
-Moodle Auto Login is now available through the chrome web store!
+Moodle Auto Login is now available through the Chrome Web Store!
 
 https://chrome.google.com/webstore/detail/moodle-auto-login/nfpmdpogbdlfbniimbdkokpcmmleemia
 
